@@ -1,6 +1,3 @@
-Group no. 6 
-P.Meghana 18CSE1021
-Pooja Yadav 18CSE1023
 
 Relocating SIC assembler using bitmasks
 
